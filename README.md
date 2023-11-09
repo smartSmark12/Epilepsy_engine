@@ -25,4 +25,4 @@ This project is a kind of my python and pygame playground, so feel free to modif
 
 ## Solutions?
 - I haven't found any solution for this problem yet, so if you find one, let me know
-- You could rebuild the program from the downloadable .py file (using pyinstaller)
+  - You could rebuild the program from the downloadable .py file (using pyinstaller)
