@@ -20,8 +20,8 @@ This project is a kind of my python and pygame playground, so feel free to modif
 - Alt+f4: quit program
 
 # Potential issues:
-- Windows defender might have a problem with the .exe file
-- Antivirus might not let you download the .exe file
+- Windows defender might have a problem with the .exe file (It's not a virus, but WD flags it as a false positive)
+- Antivirus might not let you download the .exe file ("Trojan:Script/Phonzy.B!ml" or something in that sense)
 
 ## Solutions?
 - I haven't found any solution for this problem yet, so if you find one, let me know
